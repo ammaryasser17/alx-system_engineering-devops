@@ -1,10 +1,2 @@
- #include <stdio.h>
-
-int main()
-{
-   
-    printf("(Ôo)");
-
-    return 0;
-}
-
+#!/bin/bash
+echo '"(Ôo)'\'
