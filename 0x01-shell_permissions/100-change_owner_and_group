@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm -hR betty:alxschool .
+chowm -hR vincent:staff .
